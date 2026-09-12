@@ -280,13 +280,21 @@ Sales-Performance-Analysis/
 
 <img width="985" height="555" alt="Dashboard" src="https://github.com/user-attachments/assets/738ad06b-7a1a-4722-9cf2-d62c8828ca7f" />
 
-
-```markdown
-![Sales Performance Dashboard](images/dashboard.png)
-```
-
 ---
 
+## 🚀 5 Tactical Improvements for Alfido Tech
+
+**Optimize Product Mix:** Increase the visibility and availability of high-performing products while reducing focus on consistently low-performing offerings.
+
+**Create Targeted Promotions:** Develop region- and category-specific promotions based on sales trends and customer demand instead of applying broad discounts.
+
+**Bundle Complementary Products:** Introduce product bundles and cross-selling offers to increase average order value and encourage customers to purchase related products.
+
+**Improve Pricing Strategy:** Review product-level sales, discounts, and profit margins to identify opportunities for competitive pricing without sacrificing profitability.
+
+**Expand High-Potential Offerings:** Identify categories and regions with strong demand but limited performance and introduce relevant products or services to capture additional sales opportunities.
+
+---
 ## 🔮 Future Improvements
 
 Potential improvements to this project include:
@@ -311,4 +319,19 @@ This project demonstrates a complete **data analytics and business intelligence 
 
 Data Analyst | Python | SQL | Power BI | PostgreSQL
 
+### Connect
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/rohit-kumar-221a6327a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/raj079851-ship-it">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+ <a href="mailto:raj079851@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
